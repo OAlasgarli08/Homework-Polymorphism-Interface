@@ -1,0 +1,33 @@
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Omara\OneDrive\Desktop\13_10_23-Homework\Classwork\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Omara\OneDrive\Desktop\Classwork\Classwork\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Omara\OneDrive\Desktop\Homework-Polymorphism & Interface\Classwork\Domain\obj\Debug\net6.0\ref\Domain.dll
